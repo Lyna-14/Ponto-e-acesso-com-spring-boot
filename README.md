@@ -22,4 +22,4 @@ Foi utilizado o MySql 8.0 para esta aplicação, mas tem o suporte ao banco H2 q
 SOBRE O AUTORA
 
 Me chamo Evelyn e estou iniciando na carreira de desenvolvedora. 
-Se voce tiver alguma dica ou oritenção sobre essa area eu ficaria muito feliz de conversamos. 
+Se você tiver alguma dica ou oritenção sobre essa área eu ficaria muito feliz de conversamos. 
